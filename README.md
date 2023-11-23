@@ -1,2 +1,2 @@
-# Desafio-T-cnico-1-Escribo
+# Desafio Técnico 1 - Escribo
 Desafio técnico para processo seletivo
